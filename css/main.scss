@@ -37,3 +37,10 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.post-summary {
+  color: #777;
+}
+.post-list li {
+  margin-bottom: 45px;
+}
